@@ -35,8 +35,7 @@ This is a simple neural network built using **TensorFlow** and **Keras** to reco
 ```bash
 pip install tensorflow matplotlib seaborn numpy
 
-## Run the script:
-python mnist_digit_classifier.py
+
 ```
 
 ---
