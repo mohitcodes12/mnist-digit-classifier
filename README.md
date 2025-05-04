@@ -34,3 +34,15 @@ This is a simple neural network built using **TensorFlow** and **Keras** to reco
 
 ```bash
 pip install tensorflow matplotlib seaborn numpy
+
+python mnist_digit_classifier.py
+
+📊 Output Example
+Accuracy up to ~97%
+
+Confusion matrix heatmap for visual analysis of predictions
+
+
+
+
+
