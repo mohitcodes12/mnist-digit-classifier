@@ -37,16 +37,23 @@ pip install tensorflow matplotlib seaborn numpy
 
 ## Run the script:
 python mnist_digit_classifier.py
+```
+
+---
 
 ## 📊 Output Example
 -Accuracy up to ~97%
 -Confusion matrix heatmap for visual analysis of predictions
+
+---
 
 ## 🙋‍♂️ About
 This is my first machine learning project uploaded on GitHub.
 Built and uploaded by mohitcodes12
 
 Feel free to explore, fork, or suggest improvements!
+
+---
 
 ## 📃 License
 This project is open-source and available under the MIT License.
