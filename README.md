@@ -43,6 +43,7 @@ python mnist_digit_classifier.py
 
 ## 📊 Output Example
 -Accuracy up to ~97%
+
 -Confusion matrix heatmap for visual analysis of predictions
 
 ---
@@ -60,13 +61,6 @@ This project is open-source and available under the MIT License.
 
 ---
 
-### ✅ To Add It on GitHub:
-1. In your GitHub repo, click **“Add file”** → **“Create new file”**
-2. Name the file: `README.md`
-3. Paste the above content
-4. Scroll down and **click "Commit new file"**
-
-Let me know if you also want me to generate a `.gitignore` or LICENSE file!
 
 
 
